@@ -63,5 +63,5 @@ Formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gest�
 ---
 
 <div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😄  
+  <i>“It works on my machine.”</i> 😎
 </div>
