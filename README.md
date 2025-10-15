@@ -46,9 +46,9 @@ Formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gest�
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julio-Lopes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Lopes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
   
 </div>
 
