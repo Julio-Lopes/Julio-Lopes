@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm <PRIVATE_PERSON>!</h1>
+<h1 align="center">👋 Hello</h1>
 
 <p align="center">
   💻 <strong>Full Stack Developer</strong> | 🚀 Passionate about technology and innovation
