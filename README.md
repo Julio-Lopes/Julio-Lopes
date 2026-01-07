@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello</h1>
 
 <p align="center">
-  💻 <strong>Full Stack Developer</strong> | 🚀 Passionate about technology and innovation
+  💻 <strong>Back-end Developer</strong> | 🚀 Passionate about technology and innovation
 </p>
 
 ---
@@ -9,12 +9,12 @@
 ### 🌎 About Me | Sobre Mim
 
 **English 🇺🇸**  
-I’m a Full Stack Developer passionate about technology and turning ideas into real solutions.  
+I’m a Back-end Developer passionate about technology and turning ideas into real solutions.  
 Experienced with **Java, PHP, React, NestJS, and Spring Boot**, working with **SQL, MongoDB, APIs, and Docker**.  
 With a degree in **Systems Analysis and Development** and a **postgraduate in IT Management**, I’m always looking to learn, grow, and make a positive impact through technology.
 
 **Português 🇧🇷**  
-Sou Desenvolvedor **Full Stack**, apaixonado por tecnologia e por transformar ideias em soluções reais.  
+Sou Desenvolvedor **Back-end**, apaixonado por tecnologia e por transformar ideias em soluções reais.  
 Tenho experiência com **Java, PHP, React, NestJS e Spring Boot**, além de trabalhar com **SQL, MongoDB, APIs e Docker**.  
 Formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gestão da Tecnologia da Informação**, busco sempre aprender, evoluir e contribuir com projetos que façam a diferença.
 
