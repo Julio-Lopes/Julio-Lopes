@@ -9,13 +9,13 @@
 ### 🌎 About Me | Sobre Mim
 
 **English 🇺🇸**  
-I’m a Back-end Developer passionate about technology and turning ideas into real solutions.  
-Experienced with **Java, PHP, React, NestJS, and Spring Boot**, working with **SQL, MongoDB, APIs, and Docker**.  
+I’m a Front-end Developer passionate about technology and turning ideas into real solutions.  
+Experienced with **PHP, React, Java, NestJS e Spring Boot**, working with **SQL, MongoDB, APIs, and Docker**.  
 With a degree in **Systems Analysis and Development** and a **postgraduate in IT Management**, I’m always looking to learn, grow, and make a positive impact through technology.
 
 **Português 🇧🇷**  
-Sou Desenvolvedor **Back-end**, apaixonado por tecnologia e por transformar ideias em soluções reais.  
-Tenho experiência com **Java, PHP, React, NestJS e Spring Boot**, além de trabalhar com **SQL, MongoDB, APIs e Docker**.  
+Sou Desenvolvedor **Front-end**, apaixonado por tecnologia e por transformar ideias em soluções reais.  
+Tenho experiência com **PHP, React, Java, NestJS e Spring Boot**, além de trabalhar com **SQL, MongoDB, APIs e Docker**.  
 Formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gestão da Tecnologia da Informação**, busco sempre aprender, evoluir e contribuir com projetos que façam a diferença.
 
 ---
@@ -23,9 +23,9 @@ Formado em **Análise e Desenvolvimento de Sistemas** e **pós-graduado em Gest�
 ### 🛠️ Tech Stack
 
 #### 💡 Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 
