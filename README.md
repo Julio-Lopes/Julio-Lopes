@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello</h1>
 
 <p align="center">
-  💻 <strong>Back-end Developer</strong> | 🚀 Passionate about technology and innovation
+  💻 <strong>Front-end Developer</strong> | 🚀 Passionate about technology and innovation
 </p>
 
 ---
