@@ -1,10 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=220&section=header&text=Julio%20Cesar&fontSize=38&fontColor=f5d060&fontAlignY=38&fontAlign=50&desc=Ribeiro%20Lopes&descSize=22&descFontColor=b8b0e0&descAlignY=58&descAlign=50&animation=fadeIn" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=220&section=header&text=Julio%20Cesar&fontSize=38&fontColor=f5d060&fontAlignY=38&fontAlign=50&desc=Ribeiro%20Lopes&descSize=22&descFontColor=b8b0e0&descAlignY=58&descAlign=50&animation=fadeIn" alt=" " />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Frontend%20Developer-0f0c22?style=flat&logoColor=b8b0e0" />
-  <img src="https://img.shields.io/badge/-Salesforce%20Commerce%20Cloud-0f0c22?style=flat&logo=salesforce&logoColor=b8b0e0" />
-  <img src="https://img.shields.io/badge/-React-0f0c22?style=flat&logo=react&logoColor=b8b0e0" />
-  <img src="https://img.shields.io/badge/-TypeScript-0f0c22?style=flat&logo=typescript&logoColor=b8b0e0" />
+  <img src="https://img.shields.io/badge/-Frontend%20Developer-0f0c22?style=flat&logoColor=b8b0e0" alt=" " />
+  <img src="https://img.shields.io/badge/-Salesforce%20Commerce%20Cloud-0f0c22?style=flat&logo=salesforce&logoColor=b8b0e0" alt=" " />
+  <img src="https://img.shields.io/badge/-React-0f0c22?style=flat&logo=react&logoColor=b8b0e0" alt=" " />
+  <img src="https://img.shields.io/badge/-TypeScript-0f0c22?style=flat&logo=typescript&logoColor=b8b0e0" alt=" " />
 </p>
 
 ---
@@ -51,21 +53,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julio-Lopes&show_icons=true&hide_border=true&bg_color=0f0c22&title_color=c9b8f0&icon_color=7a6fc0&text_color=8b84b8&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Lopes&layout=compact&hide_border=true&bg_color=0f0c22&title_color=c9b8f0&text_color=8b84b8&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Julio-Lopes&hide_border=true&background=0f0c22&ring=c9b8f0&fire=e8b83a&currStreakLabel=c9b8f0&sideLabels=7a6fc0&dates=6e6a9a&currStreakNum=e8e4f5&sideNums=e8e4f5" />
-</p>
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Julio-Lopes&hide_border=true&background=0f0c22&ring=c9b8f0&fire=e8b83a&currStreakLabel=c9b8f0&sideLabels=7a6fc0&dates=6e6a9a&currStreakNum=e8e4f5&sideNums=e8e4f5" alt=" " />
+</div>
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-cesar-ribeiro-lopes-0039ba244/">
-    <img src="https://img.shields.io/badge/linkedin-0f0c22?style=flat-square&logo=linkedin&logoColor=9d94d8" />
+    <img src="https://img.shields.io/badge/linkedin-0f0c22?style=flat-square&logo=linkedin&logoColor=9d94d8" alt="LinkedIn" />
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=100&section=footer" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=100&section=footer" alt=" " />
+</div>
