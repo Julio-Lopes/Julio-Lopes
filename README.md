@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=220&section=header&text=Julio%20Cesar&fontSize=38&fontColor=f5d060&fontAlignY=38&fontAlign=50&desc=Ribeiro%20Lopes&descSize=22&descFontColor=b8b0e0&descAlignY=58&descAlign=50&animation=fadeIn&link=https://github.com/Julio-Lopes" alt=" " />
+  <img src="./assets/header.svg" width="100%" alt="Julio Cesar Ribeiro Lopes" />
 </div>
 
 <p align="center">
@@ -66,5 +66,5 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0c22,1e1842,2d1f5e&height=100&section=footer&link=https://github.com/Julio-Lopes" alt=" " />
+  <img src="./assets/footer.svg" width="100%" alt="Julio Cesar Ribeiro Lopes" />
 </div>
