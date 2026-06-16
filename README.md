@@ -16,9 +16,9 @@
 
 ---
 
-**🇺🇸** Frontend developer building e-commerce experiences on **Salesforce Commerce Cloud** — from PDP to checkout. React · Next.js · TypeScript. Full-stack when needed: NestJS · PHP · Docker.
+**🇺🇸** Full Stack Developer — React, Next.js & TypeScript on the front-end; Java, Spring Boot on the back-end. E-commerce background with Salesforce Commerce Cloud, from PDP to checkout.
 
-**🇧🇷** Desenvolvedor Frontend especializado em e-commerce com **Salesforce Commerce Cloud**. Construo jornadas de compra — PDP, PLP, carrinho e checkout. React · Next.js · TypeScript. Full stack também: NestJS · PHP · Docker.
+**🇧🇷** Desenvolvedor Full Stack — React, Next.js e TypeScript no front-end; Java e Spring Boot no back-end. Experiência em e-commerce com Salesforce Commerce Cloud, de PDP a checkout.
 
 ---
 
